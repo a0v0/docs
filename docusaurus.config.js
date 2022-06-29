@@ -10,7 +10,7 @@ module.exports = {
   tagline: "",
   url: "https://micro.dev",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "micro",
@@ -23,11 +23,11 @@ module.exports = {
         src: "images/micro.png",
       },
       items: [
-        {
-          href: "/blog",
-          position: "left",
-          label: "🗒️ Blog",
-        },
+        // {
+        //   href: "/blog",
+        //   position: "left",
+        //   label: "🗒️ Blog",
+        // },
         {
           href: "https://github.com/m3o/m3o",
           position: "left",

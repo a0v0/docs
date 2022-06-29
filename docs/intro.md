@@ -21,7 +21,7 @@ A high level introduction to Micro
 
 The helloworld quickstart guide
 
-### [Upgrade Guide](upgrade-guide)
+### [Upgrade Guide](guides/v2-to-v3-upgrade-guide)
 
 Update your go-micro project to use micro v3.
 
