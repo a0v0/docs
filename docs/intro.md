@@ -1,37 +1,54 @@
 ---
 sidebar_position: 1
-title: Introduction
 slug: /
 ---
 
-# Revolt Documentation
+# Micro Documentation
 
-Welcome to Revolt's documentation. Everything you need to contribute to Revolt, build apps or bots, or to learn more about the project can be found here.
+Welcome to Micro's documentation. Below you’ll find documentation for Micro
 
-## How To Help
+Below you'll find documentation for Micro
 
-You can contribute to Revolt in a variety of ways:
+## Contents
 
-### 1. Feedback
+Documentation, guides and quick starts for Micro
 
-The easiest, but most important, way to contribute to Revolt is to voice your opinion and give us feedback.
-We want to hear what you think and appreciate and await your feature suggestions, bug reports and general opinions on everything Revolt has to offer.
+### [Overview](overview)
 
-Within the Revolt app, you can navigate to the [**feedback tab**](https://app.revolt.chat/settings/feedback), or you can open an issue on the relevant [GitHub repo](https://github.com/revoltchat).
+A high level introduction to Micro
 
-### 2. Translate
+### [Getting Started](getting-started)
 
-Revolt is used by users all around the world; as such, it's more accessible if the user interface is available in a variety of languages.
-You can contribute translations through [**Weblate**](https://weblate.insrt.uk/engage/revolt/).
+The helloworld quickstart guide
 
-### 3. Donate
+### [Upgrade Guide](upgrade-guide)
 
-Revolt is not backed by a big company, is not currently monetised (for example, via a subscription service) and does not serve you advertisements; as such, Revolt currently relies entirely on donations.
-You can learn more about donating [here](https://insrt.uk/donate) - if you want to make a larger donation, please consult me first.
+Update your go-micro project to use micro v3.
 
-### 4. Code
+### [Architecture](architecture)
 
-Revolt is an open source project - you can volunteer to help build features or fix bugs.
-Open issues and current tasks are tracked on [**this GitHub project**](https://github.com/orgs/revoltchat/projects/3), but please read the [contribution guide](https://github.com/revoltchat/revolt/discussions/282#discussion-3777997) first. 
+Describes the architecture, design and tradeoffs
 
-[**Learn how to run the Revolt stack locally.**](/contributing)
+### [Reference](reference)
+
+In-depth reference for Micro CLI and services
+
+### [Resources](resources)
+
+External resources and contributions
+
+### [Roadmap](roadmap)
+
+Stuff on our agenda over the long haul
+
+### [Users](users)
+
+Developers and companies using Micro in production
+
+### [FAQ](faq)
+
+Frequently asked questions
+
+### [Blog](blog)
+
+For the latest from us
