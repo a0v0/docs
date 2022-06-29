@@ -116,7 +116,7 @@ module.exports = {
           rehypePlugins: [katex],
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          editUrl: "https://github.com/revoltchat/documentation/blob/master/",
+          editUrl: "https://github.com/micro/docs/blob/master/",
         },
         /*blog: {
           showReadingTime: true,
@@ -125,22 +125,6 @@ module.exports = {
         },*/
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
-        },
-      },
-    ],
-    [
-      "redocusaurus",
-      {
-        debug: Boolean(process.env.DEBUG || process.env.CI),
-        specs: [
-          {
-            spec: "https://api.revolt.chat/openapi.json",
-            route: "/api/",
-          },
-        ],
-        theme: {
-          primaryColor: "#0000FF",
-          redocOptions: { hideDownloadButton: false },
         },
       },
     ],
