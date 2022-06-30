@@ -16,6 +16,7 @@ module.exports = {
   organizationName: "micro",
   projectName: "micro",
   themeConfig: {
+   
     navbar: {
       title: "",
       logo: {
@@ -105,6 +106,7 @@ module.exports = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+      additionalLanguages: ['powershell'],
     },
   },
   presets: [
